@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://serapnailart.com/</loc>
+    <lastmod>2026-10-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://serapnailart.com/logo.png</image:loc>
+      <image:title>Serap Nail Art Bursa Logo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://serapnailart.com/photo/serap_nail_art_06.webp</image:loc>
+      <image:title>Serap Nail Art Bursa VIP Güzellik ve Tırnak Stüdyosu</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://serapnailart.com/photo/el_bakim_04.webp</image:loc>
+      <image:title>Bursa Protez Tırnak ve French Kalıcı Oje Uygulaması</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://serapnailart.com/photo/ayak_bakim_03.webp</image:loc>
+      <image:title>Bursa Medikal ve Spa Ayak Bakımı Pedikür</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://serapnailart.com/photo/cilt_bakim_03.webp</image:loc>
+      <image:title>Bursa Profesyonel Buharlı Cilt Bakımı</image:title>
+    </image:image>
+  </url>
+</urlset>

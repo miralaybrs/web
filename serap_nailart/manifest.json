@@ -1,0 +1,17 @@
+{
+  "name": "Serap Nail Art & Güzellik Stüdyosu Bursa",
+  "short_name": "Serap Nail Art",
+  "description": "Bursa'da kişiye özel VIP protez tırnak, kalıcı oje, el-ayak bakımı ve profesyonel cilt bakım stüdyosu.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fff8fb",
+  "theme_color": "#e6007e",
+  "lang": "tr-TR",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

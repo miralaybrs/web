@@ -1,0 +1,17 @@
+{
+  "name": "serap-nail-art-bursa",
+  "version": "1.0.0",
+  "description": "Serap Nail Art & Güzellik Stüdyosu Bursa - Modern Web & Electron.js Uygulaması",
+  "main": "electron-main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "serap-nail-art",
+    "bursa-protez-tirnak",
+    "kalici-oje",
+    "cilt-bakimi",
+    "electron"
+  ],
+  "author": "Serap Nail Art Bursa"
+}
